@@ -16,3 +16,4 @@ If you look at the small js file, this is what it's doing:
 3. Takes the data-video content (in this case an iframe) and appends it to the video div. 
 4. Removes the image and paragraph you clicked on.
 
+DEMO: <a href="http://code.eyespeak.com/simple-video-gallery/" target="_blank">http://code.eyespeak.com/simple-video-gallery/</a>
