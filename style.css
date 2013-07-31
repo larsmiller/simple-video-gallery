@@ -1,0 +1,24 @@
+.video {
+	margin-bottom: 30px;
+	position: relative;
+	cursor: pointer;
+	float: left;
+	width: 570px;
+	height: 428px;
+	overflow: hidden;
+}
+img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+p {
+	background: rgba(250, 250, 250, .8);
+	position: absolute;
+	top: 60%;
+	padding: 5px 20px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	min-height: 4em;
+}
